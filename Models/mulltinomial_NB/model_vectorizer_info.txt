@@ -1,0 +1,8 @@
+The model and vectorizer files originally located in this folder are not included in the repository because they exceed GitHub's file size limit (100MB).
+
+You can download the necessary files from the following Google Drive link:
+https://drive.google.com/file/d/10h4Tzqcg7AH6i6ZQyagaHiNczBXkqO9d/view?usp=sharing
+
+After downloading, place the extracted files into this folder.
+
+Make sure the file names and paths remain unchanged so that the scripts can access them correctly.

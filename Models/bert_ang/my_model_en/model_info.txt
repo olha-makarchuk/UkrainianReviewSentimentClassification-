@@ -1,0 +1,6 @@
+The original model file is not included in this folder due to GitHub file size limits.
+
+You can download it from Google Drive:
+https://drive.google.com/file/d/1ZYBfNJCqMpZTe2-egr22Eqhx-6ElaPnd/view?usp=sharing
+
+After downloading, place the model files in this folder.
