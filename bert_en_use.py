@@ -6,8 +6,8 @@ from transformers import BertTokenizer, TFBertForSequenceClassification
 import tensorflow as tf
 import seaborn as sns
 
-model = TFBertForSequenceClassification.from_pretrained('Models/bert_ang/my_model_ang')
-tokenizer = BertTokenizer.from_pretrained('Models/bert_ang/my_tokenizer_ang')
+model = TFBertForSequenceClassification.from_pretrained('Models/bert_en/my_model_ang')
+tokenizer = BertTokenizer.from_pretrained('Models/bert_en/my_tokenizer_ang')
 
 class_map = {0: "негативний", 1: "позитивний", 2: "нейтральний"}
 
