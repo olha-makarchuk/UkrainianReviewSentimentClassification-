@@ -1,0 +1,6 @@
+The tokenizer files are not included in this folder due to GitHub file size limits.
+
+Download them from Google Drive:
+https://drive.google.com/file/d/1VypTpB9a5mZc5rEwNJIMx3wDU8VQkZnN/view?usp=sharing
+
+Extract or move the tokenizer files into this folder to ensure the code works correctly.
